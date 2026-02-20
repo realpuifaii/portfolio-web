@@ -67,7 +67,7 @@ const artProjectTemplates: ArtProject[] = [
     role: "2D Artist / Character Designer",
     medium: ["Procreate"],
     mood: ["Chibi", "Stylized", "Cute", "Character Design", "Line Art"],
-    galleryImage: "/Final.png",
+    galleryImage: "/final.png",
     processImage: "/ChibiEyeBreakdown1.png",
     processLabel: "Eye Rendering Process",
     processModalStyle: "old",
